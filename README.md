@@ -9,6 +9,26 @@ ___
 ## Emphasis
 **THis is bold text**
 
+##Lists
+unordered
++ create a list by starting a line with '+','-', or '*'
++ +sub-lists are made by indenting 2 spaces:
+  - Marker character change forces new list start:
+    * AC test
+    + facilities
+    - test
++ very nice
+
+ordered
+
+1. this is 1
+2. this is 2
+
+## blockquotes
+> blockquotes can be fun
+>> .... test
+> > > ... test
+
 ## Tables
 
 |Options | Description |

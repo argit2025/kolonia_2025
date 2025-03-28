@@ -44,4 +44,4 @@ right aligned columns
 [link text] (http/dev.nodeca.com)
 
 ## Images
-![minion]
+![lilijka](https://github.com/argit2025/kolonia_2025/blob/main/lilijka%20harcerska_grafika.png)
